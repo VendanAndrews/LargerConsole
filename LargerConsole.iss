@@ -19,7 +19,7 @@ along with ComBot.  If not, see <http://www.gnu.org/licenses/>.
 
 */
 
-objectdef obj_LogiTracker inherits obj_State
+objectdef obj_LargerConsole inherits obj_State
 {
 	
 	method Initialize()
